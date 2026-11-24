@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "DualParser: A Collaborative Framework of LLM Parser and Lightweight Parser for Log Parsing"
+authors:
+  - family-names: "Anonymous"
+    given-names: "Anonymous"
+year: 2026
+license: MIT

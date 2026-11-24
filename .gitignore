@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+results*/
+datasets/loghub-2.0-full/*/
+dualparser/models/roberta-base/
+*.log
+.DS_Store
